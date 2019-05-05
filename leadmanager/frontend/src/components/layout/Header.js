@@ -28,14 +28,13 @@ export class Header extends Component {
         </li>
       </ul>
     );
-
+    // <li className='nav-item'>
+    //   <Link to='/register' className='nav-link'>
+    //     register
+    //   </Link>
+    // </li>
     const guestLinks = (
       <ul className='navbar-nav ml-auto mt-2 mt-lg-0'>
-        <li className='nav-item'>
-          <Link to='/register' className='nav-link'>
-            register
-          </Link>
-        </li>
         <li className='nav-item'>
           <Link to='/login' className='nav-link'>
             login
