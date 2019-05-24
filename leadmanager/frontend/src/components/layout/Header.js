@@ -21,7 +21,7 @@ export class Header extends Component {
         <li className='nav-item'>
           <button
             onClick={this.props.logout}
-            className='nav-link btn btn-info btn-sm text-light'
+            className='btn btn-outline-primary'
           >
             logout
           </button>
@@ -36,7 +36,7 @@ export class Header extends Component {
     const guestLinks = (
       <ul className='navbar-nav ml-auto mt-2 mt-lg-0'>
         <li className='nav-item'>
-          <Link to='/login' className='nav-link'>
+          <Link to='/login' className='btn btn-outline-primary'>
             login
           </Link>
         </li>
@@ -44,9 +44,9 @@ export class Header extends Component {
     );
 
     return (
-      <nav className='navbar navbar-expand-sm navbar-light bg-light'>
+      <nav className='navbar navbar-expand-lg navbar-light bg-light'>
         <div className='container'>
-          <a className='navbar-brand' href='#'>
+          <a className='navbar-brand' href='/'>
             topilocal
           </a>
           <button
@@ -60,8 +60,9 @@ export class Header extends Component {
           >
             <span className='navbar-toggler-icon' />
           </button>
-          <div className='collapse navbar-collapse' id='navbarNavAltMarkup' />
-          {isAuthenticated ? authLinks : guestLinks}
+          <div className='collapse navbar-collapse' id='navbarNavAltMarkup'>
+            {isAuthenticated ? authLinks : guestLinks}
+          </div>
         </div>
       </nav>
     );
