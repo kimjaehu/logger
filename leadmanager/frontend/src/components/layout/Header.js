@@ -47,7 +47,7 @@ export class Header extends Component {
       <nav className='navbar navbar-expand-sm navbar-light bg-light'>
         <div className='container'>
           <a className='navbar-brand' href='#'>
-            topilocal
+            Logger
           </a>
           <button
             className='navbar-toggler'
