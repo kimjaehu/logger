@@ -17,24 +17,13 @@ Logger allows you to log your leads!
 
 ## Screenshots
 
-- Registration
-  !["Registration"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/registration.png)
-
-- Add lead
-  !["Add lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/add_lead.png)
-
-- Lead added
-  !["Lead added"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/lead_added.png)
-
-- Multiple lead
-  !["Multiple lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/multiple_lead.png)
-
-- Delete lead
-  !["Delete lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/delete_lead.png)
-
-- Error messages
-  !["Error handling 01"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/error01.png)
-  !["Error handling 02"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/error02.png)
+!["Registration"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/registration.png)_Registration_
+!["Add lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/add_lead.png)_Add lead_
+!["Lead added"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/lead_added.png)_Lead added_
+!["Multiple lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/multiple_lead.png)_Multiple lead_
+!["Delete lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/delete_lead.png)_Delete lead_
+!["Error handling 01"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/error01.png)_Error messages 01_
+!["Error handling 02"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/error02.png)_Error messages 02_
 
 ### Dependencies
 
