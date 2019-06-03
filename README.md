@@ -1,4 +1,4 @@
-# Chatty App
+# logger
 
 Logger allows you to log your leads!
 
@@ -17,17 +17,13 @@ Logger allows you to log your leads!
 
 ## Screenshots
 
-!["Registration"](https://raw.githubusercontent.com/kimjaehu/chattyapp/master/docs/initial.png)
-!["Add lead"](https://raw.githubusercontent.com/kimjaehu/chattyapp/master/docs/usernameChange.png)
-!["Lead added"](https://github.com/kimjaehu/chattyapp/blob/master/docs/usermessage.png)
-!["Multiple lead"](https://raw.githubusercontent.com/kimjaehu/chattyapp/master/docs/differentcolor.png)
-!["Delete lead"](https://raw.githubusercontent.com/kimjaehu/chattyapp/master/docs/imagemessage.png)
-!["Error handling 01"](https://raw.githubusercontent.com/kimjaehu/chattyapp/master/docs/imagemessage2.png)
-!["Error handling 02"](https://raw.githubusercontent.com/kimjaehu/chattyapp/master/docs/imagemessage2.png)
-
-## Acknowledgments
-
-- Lighthouse Labs Mentors
+!["Registration"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/registration.png)
+!["Add lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/add_lead.png)
+!["Lead added"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/lead_added.png)
+!["Multiple lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/multiple_lead.png)
+!["Delete lead"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/delete_lead.png)
+!["Error handling 01"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/error01.png)
+!["Error handling 02"](https://github.com/kimjaehu/logger/blob/master/leadmanager/pub/error02.png)
 
 ### Dependencies
 
@@ -36,15 +32,7 @@ Logger allows you to log your leads!
 - babel-loader
 - babel-preset-es2015
 - babel-preset-react
-- css-loader
-- node-sass
-- sass-loader
-- sockjs-client
-- style-loader
 - webpack
-- webpack-dev-server
 - react
 - react-dom
-- express
-- ws
-- uuid
+- python django
