@@ -1,6 +1,11 @@
 export const GET_LEADS = 'GET_LEADS';
 export const DELETE_LEAD = 'DELETE_LEAD';
 export const ADD_LEAD = 'ADD_LEAD';
+
+export const GET_RESUME = 'GET_RESUME';
+export const DELETE_RESUME = 'DELETE_RESUME';
+export const ADD_RESUME = 'ADD_RESUME';
+
 export const GET_ERRORS = 'GET_ERRORS';
 export const CREATE_MESSAGE = 'CREATE_MESSAGE';
 export const USER_LOADING = 'USER_LOADING';
